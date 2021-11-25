@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608629172 source:g:\c++ projects\tictactoe\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
