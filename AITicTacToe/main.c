@@ -1,6 +1,7 @@
 ////////////// ---------------- AI Based Tic Tac Toe Game in C -------------------------////////////////////
 
 #include <stdio.h>
+#include <stdbool.h>
 
 #define COMPUTER 1
 #define HUMAN 2

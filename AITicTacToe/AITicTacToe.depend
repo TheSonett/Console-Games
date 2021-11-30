@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638273088 source:d:\programming\console applications using c++\aitictactoe\main.c
+	<stdio.h>
+	<stdbool.h>
+
